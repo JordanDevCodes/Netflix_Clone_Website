@@ -61,12 +61,12 @@ Netflix-Clone/
 ![Netflix Clone Screenshot](https://github.com/JordanDevCodes/Netflix_Clone_Website/blob/main/Images/Screenshot.png)
 
 
+## 📌 Note
+
+This project is for educational and demonstration purposes only. Not for commercial use.
+
+
 ## 👨‍💻 Author
 
 - **Name:** Jordan Kujur
 - **GitHub:** [@JordanDevCodes](https://github.com/JordanDevCodes)
-
-
-## 📜 License
-
-This project is for educational and demonstration purposes only. Not for commercial use.
