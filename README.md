@@ -58,7 +58,7 @@ Netflix-Clone/
 
 ## 📸 Preview
 
-![Netflix Clone Screenshot](https://raw.githubusercontent.com/yourusername/repo-name/main/Images/Screenshot.png)
+![Netflix Clone Screenshot](https://github.com/JordanDevCodes/Netflix_Clone_Website/blob/main/Images/Screenshot.png)
 
 
 ## 👨‍💻 Author
