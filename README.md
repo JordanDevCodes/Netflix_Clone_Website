@@ -56,6 +56,11 @@ Netflix-Clone/
 ---
 
 
+## 📸 Preview
+
+![Netflix Clone Screenshot](https://raw.githubusercontent.com/yourusername/repo-name/main/Images/Screenshot.png)
+
+
 ## 👨‍💻 Author
 
 - **Name:** Jordan Kujur
