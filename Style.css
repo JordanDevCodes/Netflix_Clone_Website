@@ -259,6 +259,7 @@ font-size: 23px;
 
 .faq h2{ color: white;
     font-size: 40px;
+    margin-top: 23px;
     margin-bottom: 29px;
 }
 
@@ -318,6 +319,7 @@ margin-top: 40px;
 .email input{
     padding: 20px 370px 20px 16px;
     /* background-color: ; */
+
     caret-color: rgb(255, 255, 255);
     /* padding-right: 12rem; */
     background-color: rgba(128, 128, 128, 0.096);
@@ -577,7 +579,8 @@ gap: 29px
 
 
   .faq{
-    margin-top: 23px;
+
+    /* margin-top: 23px; */
     
     width: 78%;
 }
